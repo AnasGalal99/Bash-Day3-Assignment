@@ -4,7 +4,12 @@
 (taking back the previes script on bash-day2-assignment and then do the if condition on it)
 
 if [ "$AGE" -ge "$Required_Age" ]; then
+
     echo "Welcome $NAME, you are allowed."
+    
 else
+
     echo "Sorry $NAME, you are not allowed."
+    
 fi
+
